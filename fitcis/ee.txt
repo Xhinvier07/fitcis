@@ -1,0 +1,11 @@
+[ ELECTRICAL ENGINEERING ]
+
+The field of Electrical Engineering deals with the generation, transmission, distribution and utilization of electricity. 
+It covers topics such as industrial and power electronics, electrical and instrumentation design and construction, machine control 
+and automation, operations and maintenance of facilities, power systems operation, economics and protection, industrial 
+and power plant engineering. Electrical Engineering students of FEU Institute of Technology are expected to learn and to 
+experience cutting-edge design software in electrical and power systems design. They will also experience hands-on building design, 
+wiring and installation, motor control design and wiring. 
+With knowledge of electronics, they are expected to excel in the fields of instrumentation, automation and controls design.
+
+----------------------------------------------------

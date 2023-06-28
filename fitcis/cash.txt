@@ -1,0 +1,6 @@
+[ CASHIER'S OFFICE ]
+
+The Cashier’s Office is the sole entity in the Institute authorized to collect and release 
+payments for school fees and other charges.
+
+---------------------------

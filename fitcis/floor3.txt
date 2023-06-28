@@ -1,0 +1,23 @@
+[ POOL ]
+The area where students can swim depending on their appointment.
+It is open to the public, but only those with their own swimming coach are permitted to use the pool.
+
+-------------------------------
+[ GYM  ]
+This is where staff, faculty, and other students work out and exercise. 
+Professors also use the gym when teaching physical education classes.
+
+-------------------------------
+[ COMFORT ROOM]
+The area where students can wash and use the toilets. 
+There, students can freshen up, change into new clothes, and touch up their makeup.
+
+-------------------------------
+[ ELEVATORS ]
+The elevators that students use to go in a specific floor of FIT building.
+
+-------------------------------
+[ ASSOCIATE ELEVATORS ]
+The elevators that are only for associates to use to go in a specific floor of the FIT building.
+
+-------------------------------

@@ -1,0 +1,23 @@
+[ CLASSROOM ]
+The airconditioned rooms where the students' classes are held.
+
+-------------------------------
+[ LABORATORY ]
+The rooms where the laboratory subjects of the students of FIT are being held.
+These rooms usually consist of computers.
+
+-------------------------------
+
+[ COMFORT ROOM ]
+The area where students can wash and use the toilets. 
+There, students can freshen up, change into new clothes, and touch up their makeup.
+
+-------------------------------
+[ ELEVATORS ]
+The elevators that students use to go in a specific floor of FIT building.
+
+-------------------------------
+[ ASSOCIATE ELEVATORS ]
+The elevators that are only for associates to use to go in a specific floor of the FIT building.
+
+-------------------------------

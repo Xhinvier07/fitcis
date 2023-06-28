@@ -1,0 +1,16 @@
+[ VISITOR'S REGISTRATION ]
+The area where the visitor or guest of FIT will register to get a visitor's pass.
+
+-------------------------------
+[ ID ENTRANCE ]
+The area where the students and officials of FIT will tap their RFID card to enter the campus.
+
+-------------------------------
+[ STUDENT PLAZA ]
+The area where the events of FIT will be held and where the students spend their free time resting or relaxing. 
+
+-------------------------------
+[ ELEVATORS ]
+The main elevators that students and officials use to go in a specific floor of FIT.
+
+-------------------------------

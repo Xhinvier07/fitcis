@@ -1,0 +1,10 @@
+[ COMPUTER ENGINEERING ]
+
+The Bachelor of Science in Computer Engineering (BSCpE) is a program that embodies the science and technology 
+of design, development, implementation, maintenance, and integration of software and hardware components 
+in modern computing systems and computer-controlled equipment. This program will produce computer engineers 
+who are versatile and knowledgeable in computer science and electrical engineering, as well as in 
+the foundations of mathematics and sciences. Also, computer engineers are expected to be life-long 
+learners to maintain their knowledge and skills within their chosen discipline.
+
+----------------------------------------------------

@@ -1,0 +1,29 @@
+[ CLASSROOM ]
+The airconditioned rooms where the students' classes are held.
+
+-------------------------------
+[ SCC OFFICE ]
+The office of the SCC organization located at room F713.
+
+-------------------------------
+[ NSTP/PE OFFICE ]
+The NSTP/PE office located at room F713.
+
+-------------------------------
+[ ME DEPARTMENT ]
+The Mechanical Engineering Department office which is located at room F705.
+
+-------------------------------
+[ COMFORT ROOM]
+The area where students can wash and use the toilets. 
+There, students can freshen up, change into new clothes, and touch up their makeup.
+
+-------------------------------
+[ ELEVATORS ]
+The elevators that students use to go in a specific floor of FIT building.
+
+-------------------------------
+[ ASSOCIATE ELEVATORS ]
+The elevators that are only for associates to use to go in a specific floor of the FIT building.
+
+-------------------------------

@@ -1,0 +1,10 @@
+[ COMPUTER SERVICES OFFICE & MANAGEMENT INFORMATION SYSTEM ]
+
+The Computer Services Office provides technical support and assistance to the users of 
+the Institute's Information Technology and Communications facilities. They are also 
+in-charge of the ICT infrastructure’s operation, configuration, and administration. 
+Management Information System is the unit responsible for creating and developing 
+systems and application based on the business processes and operations requirement 
+of the Institute's academic and administrative offices.
+
+---------------------------

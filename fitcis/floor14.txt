@@ -1,0 +1,36 @@
+[ LIBRARY ]
+The FEU Institute of Technology Library is an indispensable educational repository. It 
+aims to provide and support the instructional, curricular, and research needs of the 
+students and associates.
+
+-------------------------------
+[ ERC ROOM ]
+The area where a special support unit of the English Language Program is held by the 
+Humanities, Social Sciences, and Communications (HSC) Department of the Institute. 
+ERC provides mentoring programs, self-access to materials and equipments, and 
+small group instruction aimed at developing overall English Proficiency.
+
+-------------------------------
+[ MRC ROOM ]
+This is a clinic where students’ mathematical deficiencies are diagnosed and remedied. 
+In this room, students may avail services such as consultation, peer tutoring, independent learning, 
+enhancement classes, and coaching for math competition to enhance their mathematical skills.
+
+-------------------------------
+[ DISCUSSION ROOM ]
+An area provided for students who need a place for group study, activities, and work.
+
+-------------------------------
+[ COMFORT ROOM ]
+The area where students can wash and use the toilets. 
+There, students can freshen up, change into new clothes, and touch up their makeup.
+
+-------------------------------
+[ ELEVATORS ]
+The elevators that students use to go in a specific floor of FIT building.
+
+-------------------------------
+[ ASSOCIATE ELEVATORS ]
+The elevators that are only for associates to use to go in a specific floor of the FIT building.
+
+-------------------------------

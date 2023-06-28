@@ -1,0 +1,24 @@
+[ CLASSROOM ]
+The airconditioned rooms where the students' classes are held.
+
+-------------------------------
+[ EEE FACULTY ]
+The Electrical and Electronics Engineering faculty where 
+-------------------------------
+[ COMFORT ROOM ]
+The area where students can wash and use the toilets. 
+There, students can freshen up, change into new clothes, and touch up their makeup.
+
+-------------------------------
+[ STUDY AREAS ]
+The area where the students of FEU Tech can spend their time studying or resting.
+
+-------------------------------
+[ ELEVATORS ]
+The elevators that students use to go in a specific floor of FIT building.
+
+-------------------------------
+[ ASSOCIATE ELEVATORS ]
+The elevators that are only for associates to use to go in a specific floor of the FIT building.
+
+-------------------------------

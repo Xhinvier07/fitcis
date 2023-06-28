@@ -1,0 +1,29 @@
+[ CLASSROOM ]
+The airconditioned rooms where the students' classes are held.
+
+-------------------------------
+[ HEALTH SERVICES UNIT ]
+The FEU Tech Clinic is the unit responsible for attending to the health needs of 
+the school community. It is manned by a team of physicians, dentists, nurses, 
+and trained support staff rendering free medical and dental services like 
+consultation and evaluation of any health related complaints and annual 
+physical and dental examination for all students.
+
+-------------------------------
+[ COMFORT ROOM]
+The area where students can wash and use the toilets. 
+There, students can freshen up, change into new clothes, and touch up their makeup.
+
+-------------------------------
+[ STUDY AREAS ]
+The area where the students of FEU Tech can spend their time studying or resting.
+
+-------------------------------
+[ ELEVATORS ]
+The elevators that students use to go in a specific floor of FIT building.
+
+-------------------------------
+[ ASSOCIATE ELEVATORS ]
+The elevators that are only for associates to use to go in a specific floor of the FIT building.
+
+-------------------------------

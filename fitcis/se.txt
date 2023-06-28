@@ -1,0 +1,8 @@
+[ BACHELOR OF SCIENCE IN COMPUTER SCIENCE WITH SPECIALIZATION IN SOFTWARE ENGINEERING ]
+
+The Bachelor of Science in Computer Science with specialization in Software Engineering prepares 
+students to become excellent IT professionals and researchers, proficient in designing and developing computing solutions. 
+This program prepares students for a successful and rewarding career in specification design, coding, and testing of software.
+ It also emphasizes software engineering, database, WWW, and large-scale software.
+
+----------------------------------------------------

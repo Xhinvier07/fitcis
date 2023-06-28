@@ -1,0 +1,27 @@
+[ FOOD COURT ]
+The Food Court is fully air-conditioned and has a wide seating capacity. 
+It serves a variety of meals, snack, and refreshments for students and associates. 
+
+-------------------------------
+[ PUBLIC AREA ]
+The public area of the food court where students and associates of the FIT can eat.
+
+-------------------------------
+[ ATM MACHINES ]
+The ATM machines is where students and associates of FIT can withdraw or 
+check balances of their ATM card. 
+
+-------------------------------
+[ COMFORT ROOM ]
+The area where students can wash and use the toilets. 
+There, students can freshen up, change into new clothes, and touch up their makeup.
+
+-------------------------------
+[ ELEVATORS ]
+The elevators that students use to go in a specific floor of FIT building.
+
+-------------------------------
+[ ASSOCIATE ELEVATORS ]
+The elevators that are only for associates to use to go in a specific floor of the FIT building.
+
+-------------------------------

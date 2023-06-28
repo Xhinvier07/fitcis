@@ -1,0 +1,32 @@
+[ CLASSROOM ]
+The airconditioned rooms where the students' classes are held.
+
+-------------------------------
+[ HSC OFFICE  ]
+the HSC Department of FEU Institute of Technology extends its expertise to contribute to the 
+overall development of students through a set of knowledge areas and values integration.
+
+-------------------------------
+[ FACULTIES OFFICE  ]
+The area where students can find faculty members that supervise the usage 
+of the buildings' physical amenities, their equipment, and any events taking place on campus. 
+Here, students can also talk and see their professors during break or office hours.
+
+-------------------------------
+[ COMFORT ROOM]
+The area where students can wash and use the toilets. 
+There, students can freshen up, change into new clothes, and touch up their makeup.
+
+-------------------------------
+[ STUDY AREAS ]
+The area where the students of FEU Tech can spend their time studying or resting.
+
+-------------------------------
+[ ELEVATORS ]
+The elevators that students use to go in a specific floor of FIT building.
+
+-------------------------------
+[ ASSOCIATE ELEVATORS ]
+The elevators that are only for associates to use to go in a specific floor of the FIT building.
+
+-------------------------------

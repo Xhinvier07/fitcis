@@ -1,0 +1,17 @@
+[ PARKING AREA ]
+The area where associates from FEU Tech can park their vehicles. 
+
+-------------------------------
+[ TAM SHOP ]
+The area where the students can buy FEU Tech Shirts, Sweaters, Hoodies, and merchandise.
+
+-------------------------------
+[ TAMbayan ]
+The area where athletes from FEU can hangout or eat.
+
+-------------------------------
+[ SERVICE ELEVATOR ]
+The elevator that the staffs and associates use to go to 
+a particular floor, esp. ground floor, other students can also use this.
+
+-------------------------------
